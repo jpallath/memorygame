@@ -1,0 +1,13 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  border: blue 1px solid;
+  background: white;
+}
+
+nav{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
